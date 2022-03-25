@@ -1,8 +1,8 @@
 # crypto-dev-stack
 Tech Intersections 2022
 
-# GPG Demo
+# Demos 
+- 2FA with Yubikey
+- GPG and Signed Commits
+- Secrets Management
 
-Key capabilities changes can complicate this process
-
-Fixed config. 
