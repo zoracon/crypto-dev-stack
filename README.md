@@ -5,4 +5,4 @@ Tech Intersections 2022
 
 Key capabilities changes can complicate this process
 
-3
+Fixed config. 
